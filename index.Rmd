@@ -24,3 +24,8 @@ mode        : selfcontained # {standalone, draft}
 plot(1 : 10, 1 : 10)
 ```
 
+--- . class #id
+
+## Slide 3
+
+This is the third presentation slide. 
